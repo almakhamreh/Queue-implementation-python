@@ -11,4 +11,6 @@ Basic operations of Queue
 
     top — Returns the first element in the front of the queue
     
+    size — Returns the length of the list
+    
     showItems — prints all the items in the queue
